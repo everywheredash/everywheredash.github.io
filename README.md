@@ -5,7 +5,8 @@ Play: https://soteris24.github.io/EverywhereDash
 
 
 TODO:
-Add a main menu (i actually did that but its on a seperate project and i have to import) |
+
 End Screen (bc the level goes on forever). |
 Be able to change your icon (4 at least). |
-Settings page and music controls. |
+Settings page |
+Progress |
