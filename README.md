@@ -7,10 +7,10 @@ THIS IS STILL IN BETA ITS ABOUT TO FINISH BUT STILL. If you find a bug or sugges
 
 TODO:
 
-End Screen (bc the level goes on forever). |
+End Screen (bc the level goes on forever). 
 
-Be able to change your icon (4 at least). |
+More icons and icons for other gamemodes
 
-Settings page |
+Settings page 
 
-Progress |
+Progress 
