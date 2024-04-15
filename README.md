@@ -10,6 +10,6 @@ TODO:
 
 More icons and icons for other gamemodes
 
-Settings page 
-
 Progress 
+
+Save system
