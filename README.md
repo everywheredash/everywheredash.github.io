@@ -15,4 +15,4 @@ IN THE FUTURE TODO:
 
 More icons and icons for other gamemodes
 
-Auto retry
+Auto retry toggle on and off
