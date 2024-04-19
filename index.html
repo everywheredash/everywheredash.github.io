@@ -163,8 +163,9 @@
 
   <div id="loading" class="screen">
     <noscript>Enable JavaScript</noscript>
-    <h1 class="loading-text">v0.8</h1>
     
+    <p id="randomMessage" style="color: white; font-size: 30px;"></p>
+    <h1 class="loading-text" style="font-size: 20px;">v0.8</h1>
     <div class="progress-bar-outer"><div class="progress-bar-inner" id="loading-inner"></div></div>
   </div>
 
@@ -177,6 +178,24 @@
   </div>
 
   <script src="script.js"></script>
+  <script>
+        // Fetch the text file from GitHub
+        fetch('https://raw.githubusercontent.com/everywheredash/everywheredash.github.io/main/Config/RandomMessage.txt')
+            .then(response => response.text())
+            .then(text => {
+                const messages = text.split('\n'); // Split messages by newline
+                const randomIndex = Math.floor(Math.random() * messages.length);
+                const randomMessage = messages[randomIndex].trim(); // Remove leading/trailing spaces
+
+                // Display the random message
+                document.getElementById('randomMessage').textContent = randomMessage;
+            })
+            .catch(error => {
+                console.error('Error fetching the text file:', error);
+            });
+  </script>
+
+
   <script>
     const appElement = document.getElementById('app');
     const launchScreen = document.getElementById('launch');
