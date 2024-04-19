@@ -72,4 +72,11 @@ Mute you volume!
 Wake up, school, ict, play, get caught, repeat.
 Dashing everywhere
 Have you ever heard about grass?
+Come check tomorrow
+It will load eventually
+If the game is laggy, try making you window smaller!
+Try xStep
+You can import custom levels in the create tab
+Food is ready
+Go sleep its 3AM!
 <<Error.blocked.by.administrator.>>
