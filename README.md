@@ -5,14 +5,18 @@ Play: https://everywheredash.github.io , https://everywheredash.vercel.app/ , ht
 
 This is still in beta! If you find a bug or suggest something please put in in the issues tab :)
 
-TODO:
 
-Progress GUI 
 
-Save system
-
-IN THE FUTURE TODO: 
+TODO: 
 
 More icons and icons for other gamemodes
 
 Auto retry toggle on and off
+
+
+
+IN THE FUTURE TODO:
+
+Progress GUI 
+
+Save system
