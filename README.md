@@ -5,7 +5,7 @@ Play: https://everywheredash.github.io , https://everywheredash.vercel.app/ , ht
 
 Play legacy: https://everywheredash.github.io/Legacy/index.html
 
-Play OLD: https://everywheredash.github.io/OLD/index.html
+Play OLD: https://everywheredash.github.io/OLD/index.html , https://everywheredash.github.io/OLD/index1.html
 
 This is still in beta! If you find a bug or suggest something please put in in the issues tab :)
 
