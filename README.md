@@ -6,11 +6,11 @@ v1.0 is released!!! Enjoy! :) If there are any bugs please put them in the issue
 
 Play: https://everywheredash.github.io , https://everywheredash.vercel.app/ , https://geometry-dash-online.vercel.app/
 
-Play legacy: https://everywheredash.github.io/Legacy/index.html
+Play legacy (OUTDATED): https://everywheredash.github.io/Legacy/index.html
 
 Play OLD: https://everywheredash.github.io/OLD/index.html , https://everywheredash.github.io/OLD/index1.html
 
-
+Big thanks to Kouzeru in scratch for the physics!
 
 
 IN THE FUTURE TODO:
