@@ -17,8 +17,3 @@ IN THE FUTURE TODO:
 
 -Save user data (progress, icons, settings, etc.)
 
--Add real-time progress bar when plaing a level
-
-Bugs to fix:
-
--Make the progress bar 100% when completing a level
