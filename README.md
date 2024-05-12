@@ -18,3 +18,5 @@ Big thanks to Kouzeru in scratch for the physics!
 
 
 Finally finished the TODO list, now i will be looking for bugs and new features to add,and i can finally get some sleep.
+
+UPDATE: so apparently save data doesnt work, it did when i was testing it, whats weird :/ Going to fix soon.
