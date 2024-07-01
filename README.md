@@ -14,7 +14,7 @@ Widescreen (16:9): https://everywheredash.github.io/wide/index.html
 
 Play legacy (OUTDATED): https://everywheredash.github.io/Legacy/index.html
 
-Play OLD: https://everywheredash.github.io/OLD/index.html , Turbowarp: https://everywheredash.github.io/OLD/index1.html
+Play OLD: https://everywheredash.github.io/OLD/index.html , Turbowarp OLD: https://everywheredash.github.io/OLD/index1.html
 
 Big thanks to Kouzeru in scratch for the physics!
 
