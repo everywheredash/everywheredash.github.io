@@ -10,9 +10,9 @@ v1.0 is released!!! Enjoy! :) If there are any bugs please put them in the issue
 
 Play: https://everywheredash.github.io 
 
-Widescreen (16:9): https://everywheredash.github.io/wide/index.html
+Widescreen (laggy and expirimental): https://everywheredash.github.io/wide/index.html
 
-Play legacy (OUTDATED): https://everywheredash.github.io/Legacy/index.html
+Play using legacy loader (OUTDATED): https://everywheredash.github.io/Legacy/index.html
 
 Play OLD: https://everywheredash.github.io/OLD/index.html , Turbowarp OLD: https://everywheredash.github.io/OLD/index1.html
 
