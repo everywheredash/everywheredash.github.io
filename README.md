@@ -14,6 +14,8 @@ Widescreen (laggy and expirimental): https://everywheredash.github.io/wide/index
 
 Play using legacy loader (OUTDATED): https://everywheredash.github.io/Legacy/index.html
 
+Play without a menu or endscreen (for low-end devices): https://everywheredash.github.io/nomenu/index.html
+
 Play OLD: https://everywheredash.github.io/OLD/index.html , Turbowarp OLD: https://everywheredash.github.io/OLD/index1.html
 
 Big thanks to Kouzeru in scratch for the physics!
